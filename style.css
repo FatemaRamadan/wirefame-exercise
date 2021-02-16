@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+    }
+    header{
+        background-color: #444444;
+    }
+nav ul li{
+    text-align: center;
+     text-decoration: none;
+     display: inline-block; 
+     margin-top: 10px; 
+     margin-left: 50px; 
+     padding: 30px;
+     color:rgb(208, 210, 212);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav img{
+padding-top: 40px;
+margin-top: 10px;
+}
+#the-big-picture{
+    text-align: center;
+}
+#Three-pics {
+    text-align: center;
+    margin-right: 65px;
+    margin: 6px;  
+    padding: 20px;
+     
+}
+article img{
+margin-left: 150px;
+position: relative;
+}
+.lastelements{
+    text-justify:inter-cluster;
+    float: right;
+    width:50%;
+    height: fit-content;
+    margin-right: 30px;
+}
+div p{
+    width:413px;
+}
+footer{
+    height:80px;
+}
